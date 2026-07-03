@@ -12,3 +12,13 @@ A collection of C++ practice programs covering fundamentals like random number g
 - **orderingnumbers.cpp** — Hollow Knight-themed username/password generator.
 - **radix_property.cpp** — Demonstrates `numeric_limits` radix for int and double.
 - **manus.cpp** — Simple function declaration/definition example (multiplication).
+- **arraysInput.cpp** — Collects food items into an array via `getline` until quit.
+- **BoilerPressure.cpp** — Monitors boiler pressure input in a loop with timed checks.
+- **DigitsCounter.cpp** — Counts the number of digits in an integer.
+- **learning.cpp** — Employee bonus calculator based on overtime/absent hours.
+- **NumberGuessingGame.cpp** — Simple number guessing game with hints.
+- **primeChecker.cpp** — Checks whether a number is prime.
+- **Reversenumber.cpp** — Reverses the digits of an integer.
+- **Simplelogin.cpp** — Password login system with limited attempts.
+- **strings.cpp** — Demonstrates basic `std::string` operations.
+- **StudentInfo.cpp** — Collects and displays student name/index number pairs.
